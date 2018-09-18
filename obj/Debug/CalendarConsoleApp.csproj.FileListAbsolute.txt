@@ -1,0 +1,6 @@
+D:\Proj\Solution1\CalendarConsoleApp\bin\Debug\CalendarConsoleApp.exe
+D:\Proj\Solution1\CalendarConsoleApp\bin\Debug\CalendarConsoleApp.pdb
+D:\Proj\Solution1\CalendarConsoleApp\obj\Debug\CalendarConsoleApp.csprojResolveAssemblyReference.cache
+D:\Proj\Solution1\CalendarConsoleApp\obj\Debug\CalendarConsoleApp.csproj.CoreCompileInputs.cache
+D:\Proj\Solution1\CalendarConsoleApp\obj\Debug\CalendarConsoleApp.exe
+D:\Proj\Solution1\CalendarConsoleApp\obj\Debug\CalendarConsoleApp.pdb
